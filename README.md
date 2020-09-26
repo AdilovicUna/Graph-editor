@@ -6,8 +6,8 @@ A small application that allows the user to create directed graphs.
 
 - Shift - create a vertex
 - Mouse click on vertex - select it
-- Control - create an edge from the selected vertex to another, or delete an already existing edge
-- Delete - deletes a vertex and all connected edges
+- Ctrl - create an edge from the selected vertex to another / delete an already existing edge
+- Delete - deletes a selected vertex and all connected edges
 
 Note: save and open options included
 
