@@ -1,6 +1,6 @@
 # Graph Editor
 
-A small application that allows the user to create directed graphs.
+A small program that allows the user to create directed graphs.
 
 # Controls:
 
